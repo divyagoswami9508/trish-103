@@ -1,0 +1,10 @@
+japnese language
+konnichiwa
+watashi wa divya desu
+hajimemashite
+
+types of omputers
+-pc
+-embedded
+-super computers
+-quantum computers
