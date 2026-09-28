@@ -8,3 +8,8 @@ types of omputers
 -embedded
 -super computers
 -quantum computers
+
+hardare part in cooputers:
+usb
+motherboard
+cpu
